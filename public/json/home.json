@@ -1,0 +1,217 @@
+{
+  "cards": [
+    {
+      "type": "news",
+      "guid": "0001",
+      "image": "https://picsum.photos/370/280",
+      "date": "10 Février 2019",
+      "title": "La grossesse, ça se vit en couple",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas laoreet sem vel luctus tincidunt…",
+      "thematics": [
+        {
+          "type": "grossesse",
+          "label": "grossesse",
+          "url": "http://fauchoux.ddns.net/acc"
+        }
+      ],
+      "socialShare": [
+        {
+          "network": "facebook",
+          "url": "https://www.facebook.com"
+        },
+        {
+          "network": "twitter",
+          "url": "https://www.twitter.com"
+        }
+      ]
+    },
+    {
+      "type": "news",
+      "guid": "0002",
+      "image": "https://picsum.photos/370/280?",
+      "date": "9 Février 2019",
+      "title": "Quelle alternative pour la viande",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. tincidunt…",
+      "thematics": [
+        {
+          "type": "sante",
+          "label": "santé et alimentation",
+          "url": "http://fauchoux.ddns.net/acc"
+        }
+      ],
+      "socialShare": [
+        {
+          "network": "facebook",
+          "url": "https://www.facebook.com"
+        },
+        {
+          "network": "twitter",
+          "url": "https://www.twitter.com"
+        }
+      ]
+    },
+    {
+      "type": "news",
+      "guid": "0003",
+      "image": "https://picsum.photos/370/280",
+      "date": "3 Février 2019",
+      "title": "Les carnets de Camilles sont là!",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas laoreet sem vel luctus tincidunt…",
+      "thematics": [
+        {
+          "type": "parentalite",
+          "label": "Parentalité & vie de famille",
+          "url": "http://fauchoux.ddns.net/acc"
+        }
+      ],
+      "socialShare": [
+        {
+          "network": "facebook",
+          "url": "https://www.facebook.com"
+        },
+        {
+          "network": "twitter",
+          "url": "https://www.twitter.com"
+        }
+      ]
+    },
+    {
+      "type": "news",
+      "guid": "0004",
+      "image": "https://picsum.photos/370/280?",
+      "date": "10 Février 2019",
+      "title": "Notre stand au Lotto Mons Expo!",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas laoreet sem vel luctus tincidunt…",
+      "thematics": [
+        {
+          "type": "education",
+          "label": "Education",
+          "url": "http://fauchoux.ddns.net/acc"
+        }
+      ],
+      "socialShare": [
+        {
+          "network": "facebook",
+          "url": "https://www.facebook.com"
+        },
+        {
+          "network": "twitter",
+          "url": "https://www.twitter.com"
+        }
+      ]
+    },
+    {
+      "type": "news",
+      "guid": "0005",
+      "image": "https://picsum.photos/370/280",
+      "date": "10 Février 2019",
+      "title": "Ceci est un exemple de titre",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas laoreet sem vel luctus tincidunt…",
+      "thematics": [
+        {
+          "type": "grossesse",
+          "label": "grossesse",
+          "url": "http://fauchoux.ddns.net/acc"
+        }
+      ],
+      "socialShare": [
+        {
+          "network": "facebook",
+          "url": "https://www.facebook.com"
+        },
+        {
+          "network": "twitter",
+          "url": "https://www.twitter.com"
+        }
+      ]
+    },
+    {
+      "type": "cover",
+      "guid": "0006",
+      "custom": "colors(primary)",
+      "typeLogo": "cross",
+      "title": "Calculez le montant de vos allocations familiales",
+      "urlButton": "http://fauchoux.ddns.net/acc"
+    },
+    {
+      "type": "cover",
+      "guid": "0007",
+      "custom": "#ffbb03",
+      "typeLogo": "family",
+      "title": "Découvrez les avantages de Camille",
+      "urlButton": "http://fauchoux.ddns.net/FooDog"
+    },
+    {
+      "type": "news",
+      "guid": "0008",
+      "image": "https://picsum.photos/370/280?",
+      "date": "10 Février 2019",
+      "title": "Ceci est encore un exemple de titre",
+      "thematics": [
+        {
+          "type": "sante",
+          "label": "Santé et alimentation",
+          "url": "http://fauchoux.ddns.net/acc"
+        }
+      ],
+      "socialShare": [
+        {
+          "network": "facebook",
+          "url": "https://www.facebook.com"
+        },
+        {
+          "network": "twitter",
+          "url": "https://www.twitter.com"
+        }
+      ]
+    },
+
+    {
+      "type": "news",
+      "guid": "0009",
+      "image": "https://picsum.photos/370/280",
+      "date": "3 Février 2019",
+      "title": "Les carnets de Camilles sont là!",
+      "thematics": [
+        {
+          "type": "parentalite",
+          "label": "Parentalité & vie de famille",
+          "url": "http://fauchoux.ddns.net/acc"
+        }
+      ],
+      "socialShare": [
+        {
+          "network": "facebook",
+          "url": "https://www.facebook.com"
+        },
+        {
+          "network": "twitter",
+          "url": "https://www.twitter.com"
+        }
+      ]
+    }
+  ],
+  "thematics":[
+    {
+      "type": "grossesse",
+      "label": "grossesse",
+      "url": "http://fauchoux.ddns.net/acc"
+    },
+    {
+      "type": "education",
+      "label": "Education",
+      "url": "http://fauchoux.ddns.net/acc"
+    },
+    {
+      "type": "sante",
+      "label": "Santé et alimentation",
+      "url": "http://fauchoux.ddns.net/acc"
+    },
+    {
+      "type": "parentalite",
+      "label": "Parentalité & vie de famille",
+      "url": "http://fauchoux.ddns.net/acc"
+    }
+
+  ]
+}

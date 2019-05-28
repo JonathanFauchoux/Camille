@@ -1,0 +1,106 @@
+{
+  "header": {
+    "social": {
+      "items": [
+        {
+          "url": "#",
+          "network": "facebook"
+        },
+        {
+          "url": "#",
+          "network": "instagram"
+        }
+      ]
+    },
+    "topbar": {
+      "items": [
+        {
+          "text": "Qui est Camille?",
+          "route": "/"
+        },
+        {
+          "text": "Contactez-nous",
+          "route": "/"
+        },
+        {
+          "text": "Mon espace client",
+          "route": "/"
+        },
+        {
+          "text": "Retour sur Camille.be",
+          "route": "/"
+        },
+        {
+          "text": "Inscrivez-vous à notre newsletter",
+          "route": "/"
+        }
+      ]
+    },
+    "main": {
+      "items": [
+        {
+          "text": "Accueil",
+          "route": "/"
+        },
+        {
+          "text": "Grossesse",
+          "route": "/"
+        },
+        {
+          "text": "Education",
+          "route": "/"
+        },
+        {
+          "text": "Santé & Alimentation",
+          "route": "/"
+        },
+        {
+          "text": "Parentalité & Vie de Famille",
+          "route": "/"
+        },
+        {
+          "text": "",
+          "route": "/"
+        }
+      ]
+    }
+  },
+  "footer": {
+    "links": {
+      "items": [
+        {
+        "text": "Espace client",
+        "route": "/"
+        },
+        {
+        "text": "Demande d'allocation de naissance",
+        "route": "/"
+        },
+        {
+        "text": "Montants des allocations familiales",
+        "route": "/"
+        },
+        {
+        "text": "Contactez-nous",
+        "route": "/"
+        },
+        {
+        "text": "Jobs",
+        "route": "/"
+        }
+      ]
+    },
+    "contact": {
+      "adress": "Chaussée de Marche, 637",
+      "cp": "B-5100 Namur - Wierde",
+      "asbl": "ASBL",
+      "bce": "N°BCE BE 409.080.771",
+      "caf": "CAF n°41"
+    },
+    "copyright": {
+      "text": "©2019 Camille. All rights reserved.",
+      "sitemap": "Sitemap",
+      "info":"informations légales"
+    }
+  }
+}
