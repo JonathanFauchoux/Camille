@@ -145,6 +145,7 @@
       "type": "news",
       "guid": "0008",
       "image": "https://picsum.photos/370/280?",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas laoreet sem vel luctus tincidunt…",
       "date": "10 Février 2019",
       "title": "Ceci est encore un exemple de titre",
       "thematics": [
@@ -172,6 +173,7 @@
       "image": "https://picsum.photos/370/280",
       "date": "3 Février 2019",
       "title": "Les carnets de Camilles sont là!",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas laoreet sem vel luctus tincidunt…",
       "thematics": [
         {
           "type": "parentalite",

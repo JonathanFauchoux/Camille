@@ -30,12 +30,12 @@ export default {
 .thematics-nav{
   @include media("small"){
     flex-direction: column;
-    padding-bottom: 6rem;;
+    padding-bottom: 0rem;;
   }
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-bottom: 4rem;
+  padding-bottom: 2rem;
   h3{
     @include media ("small"){
       padding-top: 2rem;

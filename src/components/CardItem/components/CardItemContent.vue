@@ -61,6 +61,7 @@ export default {
     padding-right: 8rem;
     h3{
       margin: 0;
+      font-weight: 300;
     }
   }
     .thematics{

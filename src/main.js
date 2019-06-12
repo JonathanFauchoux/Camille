@@ -25,5 +25,6 @@ new Vue({
   i18n,
   router,
   store,
+  VueAwesomeSwiper,
   render: h => h(App)
 }).$mount('#app')
